@@ -1,0 +1,2 @@
+Model,Silhouette Score,Davies-Bouldin Score,Adjusted Rand Index
+K-Means (K=10),0.4142,0.8924,0.0243
